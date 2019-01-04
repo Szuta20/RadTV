@@ -1,0 +1,6 @@
+name="RadTV V1.0.0"
+url="https://www.dropbox.com/s/smmmtmyrfbbdaw0/RadTVBiuld.zip?dl=1"
+img="https://github.com/Szuta20/RadTV/blob/master/icon.png"
+fanart="https://github.com/Szuta20/RadTV/blob/master/fanart.jpg"
+description="Nie ma jak na wsi rankiem, pachnie gOwnem i rumiankiem "
+version="1.0.0"
